@@ -1,0 +1,8 @@
+Variables are given below:
+n1
+n2
+max
+num1
+num2
+c
+str;

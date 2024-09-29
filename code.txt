@@ -3,7 +3,10 @@ using namespace std;
 
 int main()
 {
-    int n1, n2, max;
+    int n1 , n2 , max ;
+    double num1 , num2 ;
+    char c ;
+    string str;
 
     cout << "Enter two numbers: ";
     cin >> n1 >> n2;
@@ -24,10 +27,3 @@ int main()
     
     return 0;
 }
-determine keywords in the file1:
-int
-int
-do
-if
-else
-while

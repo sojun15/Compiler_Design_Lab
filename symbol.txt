@@ -1,0 +1,22 @@
+Symbols are given below:
+< less than
+> greater than
+; semi-colon
+, comma
+; semi-colon
+, comma
+; semi-colon
+; semi-colon
+; semi-colon
+; semi-colon
+< less than
+; semi-colon
+> greater than
+; semi-colon
+> greater than
+; semi-colon
+< less than
+; semi-colon
+; semi-colon
+; semi-colon
+; semi-colon

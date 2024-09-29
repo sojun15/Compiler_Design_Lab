@@ -1,0 +1,11 @@
+determine keywords in the file1:
+int
+int
+do
+double
+char
+string
+do
+if
+else
+while
