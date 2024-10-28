@@ -1,0 +1,6 @@
+( -> special symbol -> opening parenthesis
+) -> special symbol -> closing parenthesis
+{ -> special symbol -> opening curly blace
+} -> special symbol -> closing curly blace
+, -> special symbol -> comma
+; -> special symbol -> semi colone

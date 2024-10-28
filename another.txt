@@ -1,0 +1,28 @@
+Symbol Table:
+include -> include
+iostream -> iostream
+using -> using
+namespace -> namespace
+std -> std
+( -> special symbol -> opening parenthesis
+
+) -> special symbol -> closing parenthesis
+
+{ -> special symbol -> opening curly blace
+
+} -> special symbol -> closing curly blace
+
+, -> special symbol -> comma
+
+; -> special symbol -> semi colone
+int -> int
+main -> main
+int -> int
+num1 -> id
+num2 -> id
+sum -> id
+sum -> id
+num1 -> id
+num2 -> id
+return -> return
+0 -> number -> constant
