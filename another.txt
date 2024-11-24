@@ -21,6 +21,9 @@ int -> int
 num1 -> id
 num2 -> id
 sum -> id
+a -> a
+12 -> number -> constant
+5 -> number -> constant
 sum -> id
 num1 -> id
 num2 -> id

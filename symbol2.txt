@@ -1,0 +1,7 @@
+Symbols are given below:
+< -->  less than
+> -->  greater than
+; -->  semi-colon
+, -->  comma
+( -->  opening parenthesis
+) -->  closing parenthesis

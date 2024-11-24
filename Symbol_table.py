@@ -23,5 +23,6 @@ for line in file.readlines():
             file2.write(word_or_separator+' -> number -> constant')
             file2.write('\n')
         else:
+            # it is keywords part writing in file 
             file2.write(word_or_separator+' -> '+word_or_separator)
             file2.write('\n')

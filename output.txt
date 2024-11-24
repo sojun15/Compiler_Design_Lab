@@ -1,0 +1,102 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n1 , n2 , max ;
+    double num1 , num2 ;
+    char c ;
+    string str;
+    cout << "Enter two numbers: ";
+    cin >> n1 >> n2;
+    max = (n1 > n2) ? n1 : n2;
+
+    do
+    {
+        if (max % n1 == 0 && max % n2 == 0)
+        {
+            cout << "LCM = " << 15;
+            break;
+        }
+        else
+            max=31.17;
+    } while (true);   
+    return 0;
+}
+< -->  less than
+
+> -->  greater than
+
+; -->  semi-colon
+
+int-> keyword
+( -->  opening parenthesis
+
+) -->  closing parenthesis
+int-> keyword
+; -->  semi-colon
+
+, -->  comma
+
+n1 -> variable
+n2 -> variable
+max -> variable
+; -->  semi-colon
+
+, -->  comma
+
+; -->  semi-colon
+
+; -->  semi-colon
+
+< -->  less than
+
+; -->  semi-colon
+
+> -->  greater than
+
+; -->  semi-colon
+
+n1 -> variable
+n2 -> variable
+> -->  greater than
+
+; -->  semi-colon
+
+( -->  opening parenthesis
+
+) -->  closing parenthesis
+max -> variable
+n1 -> variable
+n2 -> variable
+n1 -> variable
+n2 -> variable
+if-> keyword
+( -->  opening parenthesis
+
+) -->  closing parenthesis
+max -> variable
+n1 -> variable
+0 -> constant
+max -> variable
+n2 -> variable
+0 -> constant
+< -->  less than
+
+; -->  semi-colon
+
+15 -> constant
+; -->  semi-colon
+
+else-> keyword
+; -->  semi-colon
+
+max -> variable
+31.17 -> constant
+; -->  semi-colon
+
+( -->  opening parenthesis
+
+) -->  closing parenthesis
+; -->  semi-colon
+
+0 -> constant
