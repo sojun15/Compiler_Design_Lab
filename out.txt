@@ -1,0 +1,65 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n1 , n2 , max ;
+    double num1 , num2 ;
+    char c ;
+    string str;
+    cout << "Enter two numbers: ";
+    cin >> n1 >> n2;
+    max = (n1 > n2) ? n1 : n2;
+
+    do
+    {
+        if (max % n1 == 0 && max % n2 == 0)
+        {
+            cout << "LCM = " << 15;
+            break;
+        }
+        else
+            max=31.17;
+    } while (true);   
+    return 0;
+}
+The symbol,variable,number are given below:
+; -> semi colon
+( -> parenthesis
+{ -> curly blace
+, -> comma
+; -> semi colon
+n1-> id
+n2-> id
+max-> id
+, -> comma
+; -> semi colon
+num1-> id
+; -> semi colon
+; -> semi colon
+; -> semi colon
+; -> semi colon
+n1-> id
+n2-> id
+; -> semi colon
+( -> parenthesis
+n1-> id
+n2-> id
+max-> id
+{ -> curly blace
+( -> parenthesis
+n1-> id
+n2-> id
+max-> id
+0-> number
+{ -> curly blace
+; -> semi colon
+15-> number
+; -> semi colon
+; -> semi colon
+max-> id
+31.17-> number
+; -> semi colon
+( -> parenthesis
+; -> semi colon
+0-> number
+, -> comma
